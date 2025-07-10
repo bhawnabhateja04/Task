@@ -1,0 +1,33 @@
+Key Findings :-
+
+1. Accident Hotspots & Black Spots
+1.1. 12 major black spots identified by police (e.g., NH‑19, Badkhal flyover, Bata Chowk, KGP Expressway).
+1.2. These areas recorded approximately 157 deaths and 357 accidents (2020–2022).
+1.3. A GIS-based study identified 11 more crash-prone locations along NH‑44.
+
+2. Road Condition Factors
+2.1. Poor signage, lighting, and drainage were common issues.
+2.2. Waterlogged underpasses led to fatal night accidents.
+2.3. Expressways lacked enforcement—two-wheelers often entered high-speed lanes.
+
+3. Weather Conditions
+3.1. Monsoon-linked waterlogging contributed to deadly crashes.
+3.2. While no localized weather-crash dataset exists, global data confirms higher accident risks in wet/low-visibility conditions.
+
+4. Time of Day Trends
+4.1. High fatality rates observed during:
+4.1.1. 2 AM – 4 AM (due to driver fatigue, low visibility).
+4.1.2. 7 AM – 9 AM (rush hour).
+
+5. Behavioral Patterns
+5.1. Common violations included: wrong-side driving, helmet non-use, speeding, and drunk driving.
+5.2. Helmet-related challans numbered around 19,000+ in January alone.
+5.3. Social media-driven “stunt driving” is emerging as a risk factor.
+
+📊 Visualization Strategy
+6. Visualization Methods
+6.1. Heatmaps: Plot accident density using geocoded crash data.
+6.2. Hotspot overlays: Visualize police/GIS-identified black spots.
+6.3. Time-based plots: Show accident frequency by hour.
+6.4. Conditional layers: Map rain/flood zones, underpasses.
+6.5. Behavior overlays: Identify zones of high rule violations.
